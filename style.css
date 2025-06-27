@@ -576,12 +576,9 @@ max-width: 100%;
     .img2 {
  display: none;
     }
-    nav {
-        display: flex;
-        flex-wrap: wrap;
-        width: 800px;
-        height: 100px;
-    }
+    
+    
+    
     ul {
      width: 100%;
     }
